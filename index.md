@@ -419,6 +419,7 @@ Signed,
 - Rami Chowdhury
 - rany
 - Rémi Verschelde (Godot Engine, Mageia)
+- Richard Guy Briggs (FreeS/WAN kernel, OCLUG founding board, kaudit)
 - Richard Maw
 - Richard Mehlinger
 - Richard Schneeman
@@ -453,7 +454,6 @@ Signed,
 - Shelly Coen
 - Síle Ekaterin Aman (APK Fission, Adélie Linux Core Team)
 - Simeon Smith
-- Simon Phipps (Former OSI President)
 - Simon Richter
 - Skylar Alexandra Bleed
 - Solly Ross (Kubernetes KubeBuilder maintainer)
