@@ -342,6 +342,7 @@ Signed,
 - Martin Wimpress (Former FSF member)
 - Matt Beland
 - Matteo Tammaccaro
+- Matteo Tammmaccaro
 - Matthew `mattcen` Cengia
 - Matthew P. Del Buono
 - Matthew Vernon (Debian developer)
@@ -419,6 +420,7 @@ Signed,
 - Rami Chowdhury
 - rany
 - Rémi Verschelde (Godot Engine, Mageia)
+- Richard Guy Briggs (FreeS/WAN kernel, OCLUG founding board, kaudit)
 - Richard Maw
 - Richard Mehlinger
 - Richard Schneeman
